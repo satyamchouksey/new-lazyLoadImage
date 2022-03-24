@@ -1,2 +1,2 @@
-# new-lazyLoadImage
+# infinite-scroll
 Created with CodeSandbox
